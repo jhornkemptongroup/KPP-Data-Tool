@@ -1,0 +1,13 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>5b7e2f06-18dd-40a1-8bb1-08dbdd2cbf18</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <SaveServerSettingsInUserFile>false</SaveServerSettingsInUserFile>
+    <RuntimeVersion>8.0</RuntimeVersion>
+    <PHPDevHostName>localhost</PHPDevHostName>
+    <PHPDevAutoPort>true</PHPDevAutoPort>
+    <PHPDevRouting />
+  </PropertyGroup>
+</Project>
